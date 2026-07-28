@@ -4,7 +4,7 @@ A futuristic hackathon registration website built using HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-[Live Website](https://codex-eight-ashy.vercel.app/)
+[Live Website](https://codex-2k26.vercel.app/)
 
 ---
 
